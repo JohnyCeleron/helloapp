@@ -8,6 +8,11 @@ namespace HelloApp
 {
     internal class Program
     {
+        static void Greetwhite()
+        {
+            Console.WriteLine("hello, White");
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
